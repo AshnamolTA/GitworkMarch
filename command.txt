@@ -11,3 +11,5 @@ git add -add   [to add all untracked files to stageing area]
 git commit -m "commit message"    [to move staged files to local repository]
 
 git push    [IR==RR]
+
+git pull  [RR=>changes->LWS]
